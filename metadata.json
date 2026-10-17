@@ -1,0 +1,6 @@
+{
+  "name": "OilCare Services - Professional Massage & Chatai Marketplace",
+  "description": "Book verified wellness and traditional oil massage specialists in Pakistan. Professional home visit & service centre appointments.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
